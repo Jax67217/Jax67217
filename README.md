@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jax67217
+- 👋 Hi, I’m Jackson Braund
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jacksonbraund7@gmail.com
 
